@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sameersinghharry2000
+- 👋 Hi, I’m Sameer Singh (Harry)
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JavaScript & Reactjs
 - 💞️ I’m looking to collaborate on full stack web projects
